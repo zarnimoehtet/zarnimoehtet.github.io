@@ -117,9 +117,13 @@ a:hover {
     list-style: none;
     font-size: 0.9375em;
     color: #8c8c8c; }
+      .work .work-list li b {
+    list-style: none;
+    font-size: 1.1875em;
+    color: #8c8c8c; }
     .work .work-list li a {
       padding-bottom: 5px;
-      font-size: 1.1875em;
+      font-size: 1.0em;
       font-weight: 700;
       text-decoration: none;
       border-bottom: 1px solid #b3b3b3; }
